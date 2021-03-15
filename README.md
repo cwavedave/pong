@@ -1,4 +1,4 @@
-# pong
+# PONG
 <h2> About </h2> 
 Classic pong
   
